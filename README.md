@@ -1,3 +1,5 @@
+![Typebot Slide-Out Panel](https://cdn.discordapp.com/attachments/1448456126491525130/1448456126898114641/typebot-slide-out-panel-demo-720x15.gif?ex=693b5363&is=693a01e3&hm=3579add1da530c506685192a7091e5eaab2c12527c6e4c78f72f64d94d2c82ec&)
+
 # Typebot Slide-Out Panel Demo
 
 A simple, lightweight example demonstrating how to integrate a [Typebot](https://typebot.io) chat interface into a custom slide-out sidebar panel using vanilla HTML, CSS, and JavaScript.
